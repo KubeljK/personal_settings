@@ -1,0 +1,11 @@
+// Replace the File->Preferences->Settings->User Settings with the following code.
+// Additionally install "Python", "Code Runner", "Predawn Theme Kit" (optional)
+
+{
+    "git.ignoreMissingGitWarning": true,
+    "python.pythonPath": "D:\\Programi\\Anaconda\\pythonw.exe",
+    "workbench.colorTheme": "Predawn",
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "python.linting.flake8Enabled": true
+}
