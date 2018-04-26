@@ -1,0 +1,7 @@
+# Work in created virtual environment.
+source ~/Documents/VirtualEnv/pyenv/bin/activate
+source ~/Documents/VirtualEnv/pyenv_3.6/bin/activate
+
+# Run pgadmin4
+python ~/Documents/VirtualEnv/pyenv/lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+# Access it at http://localhost:5050
