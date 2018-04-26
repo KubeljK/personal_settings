@@ -2,10 +2,11 @@
 // Additionally install "Python", "Code Runner", "Predawn Theme Kit" (optional)
 
 {
+    "python.pythonPath": "/home/klemen/Documents/VirtualEnv/arvio_okolje/bin/python",
     "git.ignoreMissingGitWarning": true,
-    "python.pythonPath": "D:\\Programi\\Anaconda\\pythonw.exe",
-    "workbench.colorTheme": "Predawn",
+    "editor.formatOnSave": false,
     "python.formatting.provider": "autopep8",
-    "editor.formatOnSave": true,
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "workbench.colorTheme": "Predawn"
 }
